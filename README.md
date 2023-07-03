@@ -11,19 +11,31 @@
 - This would introduce team members to ideas about managing data, privacy, authentication and visualization.
 
 ## Tech Stack
-- Frontend (App development)
-    * Flutter and Dart
-- Backend
-    * Flexible and open to suggestions.
-    * APIs, user authentication and database would be some of the key things which will be setup during the course of the project.
+- Frontend + Backend (App development)
+    * Flutter and Dart with Firebase
+   
+## Team
+- Frontend + Backend:
+     * Soham
+     * Aditya
+     * Varnit
+     * Dhruv
+     * Shashwat
+     * Sarvesh
+     * Prateek
+     * Rishi
 
-## Team Requirements (Flexible)
-- Backend: `2 people`
-- Frontend: `2 people`
-- Research (UI/UX, figuring out details about health-related aspects of the app) - `1 person`
+- Research (UI/UX, figuring out details about health-related aspects of the app):
+     * Sanchit
+     * Ayush
+     * Chinmay
+     * Hemang
+     * Rutul
 
-## Note
+## Contributing:
 - Anyone willing to contribute is welcome!
 - Beginners are welcome!
 - You do not need to know everything to begin with, but would be a plus-point if you are familiar with the tech stack. Nevertheless, you can learn as the project progresses.
+- Open a new issue asking where you can contribute, or solve an existing one!
+- Fork this repository, make your changes and then open a pull request.
 
