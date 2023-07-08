@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893936428105",
+    "project_id": "glucolog-zense",
+    "storage_bucket": "glucolog-zense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893936428105:android:0f0fdbef78bca472668b98",
+        "android_client_info": {
+          "package_name": "com.example.glucolog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893936428105-bhdof0dumv5lig0oh31622bu7nfddop3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQCqVivbdmwcstM8_6shj3p1liJd0OCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893936428105-bhdof0dumv5lig0oh31622bu7nfddop3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
